@@ -1,4 +1,4 @@
-# Metodos-de-Ordenacao
+# Métodos de Ordenação
 
 ## Ordenando vetor utilizando os métodos Bubble Sort e o Quicksort em Assembly 8086.
 
