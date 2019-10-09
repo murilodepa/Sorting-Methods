@@ -32,5 +32,9 @@
 * E por fim: *Bubble_Sort_e_Quick_Sort*
 * O projeto assim já estará sendo executado.
 
+### Desenvolvedores
+* Murilo de Paula Araujo.
+* Christopher de Oliveira Souza.
+
  ### Contribuições
 * Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
