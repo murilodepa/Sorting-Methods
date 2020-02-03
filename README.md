@@ -22,7 +22,7 @@
 * Para executar o programa precisa estar instalando o MS-DOS, ou outro programa que compile e execute arquivos *.asm*, estará sendo relatado como executar utilizando o MS-DOS, precisando estar instalando-o no computador, referente a compatibilidade de seu sistema operacional, e deixar no mesmo diretório do arquivo *Bubble_Sort_e_Quick_Sort.asm* o *TASM* e o *TLINK*. 
 
 ### Desenvolvimento
-* Git clone https://github.com/murilodepa/Metodos-de-Ordenacao
+* Git clone https://github.com/murilodepa/Sorting-Methods.git
 * Após a instalação do DOS-BOX, inicia-o e monte o primeiro diretório que será utilizado, como pode ser observado no exemplo a seguir num diretório "C". 
 * Para iniciar o diretório, realize o comando: *mount c c:\*
 * Depois digite: *c:*
